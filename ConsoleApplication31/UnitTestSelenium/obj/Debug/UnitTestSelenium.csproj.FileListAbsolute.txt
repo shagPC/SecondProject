@@ -11,3 +11,16 @@ c:\users\квест\documents\visual studio 2015\Projects\ConsoleApplication31\U
 c:\users\квест\documents\visual studio 2015\Projects\ConsoleApplication31\UnitTestSelenium\obj\Debug\UnitTestSelenium.csprojResolveAssemblyReference.cache
 c:\users\квест\documents\visual studio 2015\Projects\ConsoleApplication31\UnitTestSelenium\obj\Debug\UnitTestSelenium.dll
 c:\users\квест\documents\visual studio 2015\Projects\ConsoleApplication31\UnitTestSelenium\obj\Debug\UnitTestSelenium.pdb
+C:\Users\квест\Source\Repos\SecondProject\ConsoleApplication31\UnitTestSelenium\bin\Debug\UnitTestSelenium.dll
+C:\Users\квест\Source\Repos\SecondProject\ConsoleApplication31\UnitTestSelenium\bin\Debug\UnitTestSelenium.pdb
+C:\Users\квест\Source\Repos\SecondProject\ConsoleApplication31\UnitTestSelenium\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\квест\Source\Repos\SecondProject\ConsoleApplication31\UnitTestSelenium\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\квест\Source\Repos\SecondProject\ConsoleApplication31\UnitTestSelenium\bin\Debug\WebDriver.dll
+C:\Users\квест\Source\Repos\SecondProject\ConsoleApplication31\UnitTestSelenium\bin\Debug\WebDriver.Support.dll
+C:\Users\квест\Source\Repos\SecondProject\ConsoleApplication31\UnitTestSelenium\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+C:\Users\квест\Source\Repos\SecondProject\ConsoleApplication31\UnitTestSelenium\bin\Debug\WebDriver.xml
+C:\Users\квест\Source\Repos\SecondProject\ConsoleApplication31\UnitTestSelenium\bin\Debug\WebDriver.Support.xml
+C:\Users\квест\Source\Repos\SecondProject\ConsoleApplication31\UnitTestSelenium\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\квест\Source\Repos\SecondProject\ConsoleApplication31\UnitTestSelenium\obj\Debug\UnitTestSelenium.csprojResolveAssemblyReference.cache
+C:\Users\квест\Source\Repos\SecondProject\ConsoleApplication31\UnitTestSelenium\obj\Debug\UnitTestSelenium.dll
+C:\Users\квест\Source\Repos\SecondProject\ConsoleApplication31\UnitTestSelenium\obj\Debug\UnitTestSelenium.pdb

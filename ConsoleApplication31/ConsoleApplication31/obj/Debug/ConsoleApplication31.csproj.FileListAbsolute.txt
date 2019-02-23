@@ -4,3 +4,9 @@ c:\users\квест\documents\visual studio 2015\Projects\ConsoleApplication31\C
 c:\users\квест\documents\visual studio 2015\Projects\ConsoleApplication31\ConsoleApplication31\obj\Debug\ConsoleApplication31.csprojResolveAssemblyReference.cache
 c:\users\квест\documents\visual studio 2015\Projects\ConsoleApplication31\ConsoleApplication31\obj\Debug\ConsoleApplication31.exe
 c:\users\квест\documents\visual studio 2015\Projects\ConsoleApplication31\ConsoleApplication31\obj\Debug\ConsoleApplication31.pdb
+C:\Users\квест\Source\Repos\SecondProject\ConsoleApplication31\ConsoleApplication31\bin\Debug\ConsoleApplication31.exe.config
+C:\Users\квест\Source\Repos\SecondProject\ConsoleApplication31\ConsoleApplication31\obj\Debug\ConsoleApplication31.exe
+C:\Users\квест\Source\Repos\SecondProject\ConsoleApplication31\ConsoleApplication31\obj\Debug\ConsoleApplication31.pdb
+C:\Users\квест\Source\Repos\SecondProject\ConsoleApplication31\ConsoleApplication31\bin\Debug\ConsoleApplication31.exe
+C:\Users\квест\Source\Repos\SecondProject\ConsoleApplication31\ConsoleApplication31\bin\Debug\ConsoleApplication31.pdb
+C:\Users\квест\Source\Repos\SecondProject\ConsoleApplication31\ConsoleApplication31\obj\Debug\ConsoleApplication31.csprojResolveAssemblyReference.cache
