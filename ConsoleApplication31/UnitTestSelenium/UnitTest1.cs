@@ -17,6 +17,8 @@ namespace UnitTestSelenium
             chrome.Navigate().GoToUrl("http://mail.ru");
             chrome.FindElement(By.Id("q")).SendKeys("Автотесты new");
             chrome.FindElement(By.Id("q")).SendKeys(Keys.Enter);
+            Console.WriteLine("Садвокасов ДК");            
         }
+        
     }
 }
