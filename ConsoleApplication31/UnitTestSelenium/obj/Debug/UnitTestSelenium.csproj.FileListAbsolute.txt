@@ -1,0 +1,13 @@
+c:\users\квест\documents\visual studio 2015\Projects\ConsoleApplication31\UnitTestSelenium\bin\Debug\UnitTestSelenium.dll
+c:\users\квест\documents\visual studio 2015\Projects\ConsoleApplication31\UnitTestSelenium\bin\Debug\UnitTestSelenium.pdb
+c:\users\квест\documents\visual studio 2015\Projects\ConsoleApplication31\UnitTestSelenium\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\квест\documents\visual studio 2015\Projects\ConsoleApplication31\UnitTestSelenium\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+c:\users\квест\documents\visual studio 2015\Projects\ConsoleApplication31\UnitTestSelenium\bin\Debug\WebDriver.dll
+c:\users\квест\documents\visual studio 2015\Projects\ConsoleApplication31\UnitTestSelenium\bin\Debug\WebDriver.Support.dll
+c:\users\квест\documents\visual studio 2015\Projects\ConsoleApplication31\UnitTestSelenium\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+c:\users\квест\documents\visual studio 2015\Projects\ConsoleApplication31\UnitTestSelenium\bin\Debug\WebDriver.xml
+c:\users\квест\documents\visual studio 2015\Projects\ConsoleApplication31\UnitTestSelenium\bin\Debug\WebDriver.Support.xml
+c:\users\квест\documents\visual studio 2015\Projects\ConsoleApplication31\UnitTestSelenium\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\users\квест\documents\visual studio 2015\Projects\ConsoleApplication31\UnitTestSelenium\obj\Debug\UnitTestSelenium.csprojResolveAssemblyReference.cache
+c:\users\квест\documents\visual studio 2015\Projects\ConsoleApplication31\UnitTestSelenium\obj\Debug\UnitTestSelenium.dll
+c:\users\квест\documents\visual studio 2015\Projects\ConsoleApplication31\UnitTestSelenium\obj\Debug\UnitTestSelenium.pdb
