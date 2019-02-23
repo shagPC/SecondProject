@@ -10,9 +10,6 @@ namespace ConsoleApplication31
     {
         static void Main(string[] args)
         {
-
-
-
             Console.WriteLine("first");
             Console.WriteLine("second");
             Console.WriteLine("3");
