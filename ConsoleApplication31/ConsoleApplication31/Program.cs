@@ -44,6 +44,14 @@ namespace ConsoleApplication31
             {
                 return false; 
             }
+            Console.WriteLine("first");
+            Console.WriteLine("second");
+            Console.WriteLine("3");
+            Console.WriteLine("4");
+            Console.WriteLine("5");
+            Console.WriteLine("4");
+            Console.WriteLine("5");
+            Console.WriteLine("5");
         }
 
         public void PrintAskar()

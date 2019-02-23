@@ -10,6 +10,3 @@ C:\Users\квест\Source\Repos\SecondProject\ConsoleApplication31\ConsoleAppli
 C:\Users\квест\Source\Repos\SecondProject\ConsoleApplication31\ConsoleApplication31\bin\Debug\ConsoleApplication31.exe
 C:\Users\квест\Source\Repos\SecondProject\ConsoleApplication31\ConsoleApplication31\bin\Debug\ConsoleApplication31.pdb
 C:\Users\квест\Source\Repos\SecondProject\ConsoleApplication31\ConsoleApplication31\obj\Debug\ConsoleApplication31.csprojResolveAssemblyReference.cache
-C:\Users\СадвокасовД\Source\Repos\SecondProject\ConsoleApplication31\ConsoleApplication31\bin\Debug\ConsoleApplication31.exe.config
-C:\Users\СадвокасовД\Source\Repos\SecondProject\ConsoleApplication31\ConsoleApplication31\obj\Debug\ConsoleApplication31.exe
-C:\Users\СадвокасовД\Source\Repos\SecondProject\ConsoleApplication31\ConsoleApplication31\obj\Debug\ConsoleApplication31.pdb
