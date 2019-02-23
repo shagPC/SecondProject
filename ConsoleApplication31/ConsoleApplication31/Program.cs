@@ -15,5 +15,10 @@ namespace ConsoleApplication31
             Console.WriteLine("3");
             Console.WriteLine("4");
         }
+
+        public void PrintAskar()
+        {
+            Console.WriteLine("Hello world!");
+        }
     }
 }
