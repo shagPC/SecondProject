@@ -36,7 +36,7 @@ namespace ConsoleApplication31
 
         public static bool CompareTwoNumbers(int firstNum, int secondNum)
         {
-            if (firstNum > secondNum)
+            if (firstNum > secondNum || firstNum == secondNum)
             {
                 return true;
             }
