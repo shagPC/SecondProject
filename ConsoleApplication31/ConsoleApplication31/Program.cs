@@ -16,6 +16,7 @@ namespace ConsoleApplication31
             Console.WriteLine("first");
             Console.WriteLine("second");
             Console.WriteLine("3");
+            Console.WriteLine("4");
         }
     }
 }
