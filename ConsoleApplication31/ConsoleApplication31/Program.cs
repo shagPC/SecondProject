@@ -21,7 +21,9 @@ namespace ConsoleApplication31
             Int32.TryParse(Console.ReadLine(), out firstNumber);
             Int32.TryParse(Console.ReadLine(), out secondNumber);
 
-            if(firstNumber > secondNumber)
+            bool isCompare = CompareTwoNumbers(firstNumber, secondNumber);
+
+            if(isCompare)
             {
                 Console.WriteLine("first");
             }
@@ -31,5 +33,19 @@ namespace ConsoleApplication31
             }
 
         }
+
+        public static bool CompareTwoNumbers(int firstNum, int secondNum)
+        {
+            if (firstNum > secondNum)
+            {
+                return true;
+            }
+            else
+            {
+                return false; 
+            }
+        }
     }
+
+    
 }
