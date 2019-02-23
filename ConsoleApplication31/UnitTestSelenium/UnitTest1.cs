@@ -15,7 +15,7 @@ namespace UnitTestSelenium
         {
             chrome = new ChromeDriver();
             chrome.Navigate().GoToUrl("http://mail.ru");
-            chrome.FindElement(By.Id("q")).SendKeys("Автотесты");
+            chrome.FindElement(By.Id("q")).SendKeys("Автотесты new");
             chrome.FindElement(By.Id("q")).SendKeys(Keys.Enter);
         }
     }
