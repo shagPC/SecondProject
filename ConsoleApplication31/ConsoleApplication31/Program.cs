@@ -16,26 +16,16 @@ namespace ConsoleApplication31
             Console.WriteLine("4");
 
             HelloPrint.Print();
-        }
 
-        public void PrintAskar()
-        {
-            Console.WriteLine("Hello world!");
-        }
-    }
-    public class HelloPrint
-    {
-        public static void Print()
-        {
-            Console.WriteLine("Введите имя");
-            string name = Console.ReadLine();
-            Console.WriteLine($"Hello {name}");
+            int firstNumber;
+            int secondNumber;
+
             Int32.TryParse(Console.ReadLine(), out firstNumber);
             Int32.TryParse(Console.ReadLine(), out secondNumber);
 
             bool isCompare = CompareTwoNumbers(firstNumber, secondNumber);
 
-            if(isCompare)
+            if (isCompare)
             {
                 Console.WriteLine("first");
             }
@@ -43,7 +33,21 @@ namespace ConsoleApplication31
             {
                 Console.WriteLine("second");
             }
+        }
 
+        public void PrintAskar()
+        {
+            Console.WriteLine("Hello world!");
+        }
+
+        public class HelloPrint
+        {
+            public static void Print()
+            {
+                Console.WriteLine("Введите имя");
+                string name = Console.ReadLine();
+                Console.WriteLine($"Hello {name}");
+            }
         }
 
         public static bool CompareTwoNumbers(int firstNum, int secondNum)
@@ -54,7 +58,7 @@ namespace ConsoleApplication31
             }
             else
             {
-                return false; 
+                return false;
             }
             Console.WriteLine("first");
             Console.WriteLine("second");
@@ -65,11 +69,7 @@ namespace ConsoleApplication31
             Console.WriteLine("5");
             Console.WriteLine("5");
         }
-
-        public void PrintAskar()
-        {
-            Console.WriteLine("Hello world!");
-        }
+        
     }
 
     
