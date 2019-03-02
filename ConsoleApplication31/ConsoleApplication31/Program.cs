@@ -31,5 +31,11 @@ namespace ConsoleApplication31
             string name = Console.ReadLine();
             Console.WriteLine($"Hello {name}");
         }
+        public static void Print2()
+        {
+            Console.WriteLine("Введите фамилию");
+            string name = Console.ReadLine();
+            Console.WriteLine($"Hello {name}");
+        }
     }
 }
