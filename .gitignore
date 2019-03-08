@@ -2,4 +2,4 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs
+/ConsoleApplication31/.vs/ConsoleApplication31/v15/Server/sqlite3
