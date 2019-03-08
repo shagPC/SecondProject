@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ConsoleApplication31/.vs/ConsoleApplication31/v15/Server/sqlite3
+/ConsoleApplication31/ConsoleApplication31/obj
+/ConsoleApplication31/UnitTestSelenium/obj
+/ConsoleApplication31/.vs/ConsoleApplication31/v15
