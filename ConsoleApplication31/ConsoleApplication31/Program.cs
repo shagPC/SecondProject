@@ -16,13 +16,26 @@ namespace ConsoleApplication31
             Console.WriteLine("4");
 
             HelloPrint.Print();
+
+            List<Employee> emps = new List<Employee>()
+            {
+                new Employee("John", 32, 100000),
+                new Employee("Mary", 25, 150000),
+                new Employee("Phil", 21, 120000),
+            };
+
+            foreach (var item in emps)
+            {
+                item.PrintInfo();
+            }
         }
 
         public void PrintAskar()
         {
             Console.WriteLine("Hello world!");
         }
-    }
+
+}
     public class HelloPrint
     {
         public static void Print()
