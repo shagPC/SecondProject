@@ -32,6 +32,17 @@ namespace ConsoleApplication31
                 Console.WriteLine("second");
             }
 
+            List<Employee> emps = new List<Employee>()
+            {
+                new Employee("John", 32, 100000),
+                new Employee("Mary", 25, 150000),
+                new Employee("Phil", 21, 120000),
+            };
+
+            foreach (var item in emps)
+            {
+                item.PrintInfo();
+            }
         }
 
         public static bool CompareTwoNumbers(int firstNum, int secondNum)
