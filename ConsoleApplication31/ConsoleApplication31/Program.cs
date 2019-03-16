@@ -28,12 +28,13 @@ namespace ConsoleApplication31
             {
                 item.PrintInfo();
             }
+            Brigade brigade = new Brigade();
+            brigade.AddRange(emps.ToArray());
+            brigade[1].PrintInfo();
+            foreach (Employee item in brigade)
+                Console.WriteLine($"{item.Name}, {item.Age}, {item.Salary}");
         }
-
-        public void PrintAskar()
-        {
-            Console.WriteLine("Hello world!");
-        }
+        
 
 }
     public class HelloPrint
